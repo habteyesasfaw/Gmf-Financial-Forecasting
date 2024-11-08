@@ -1,0 +1,48 @@
+# Ignore data files (raw and processed)
+data/raw/
+data/processed/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Ignore result files and generated plots
+results/
+results/plots/
+results/forecasts/
+results/portfolio_analysis/
+
+# Ignore config or environment files
+config/*.yaml
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment files
+venv/
+.env/
+*.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.csv
+*.xlsx
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.so
+*.dll
+*.dylib
+
+# Ignore Jupyter notebook metadata (optional, if you want to track notebooks)
+*.ipynb
