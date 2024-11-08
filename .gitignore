@@ -44,5 +44,4 @@ Thumbs.db
 *.dll
 *.dylib
 
-# Ignore Jupyter notebook metadata (optional, if you want to track notebooks)
-*.ipynb
+
