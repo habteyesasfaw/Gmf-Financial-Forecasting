@@ -1,9 +1,5 @@
-# Ignore data files (raw and processed)
-data/raw/
-data/processed/
 
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
+
 
 # Ignore model files
 models/*.pkl
@@ -16,8 +12,7 @@ results/plots/
 results/forecasts/
 results/portfolio_analysis/
 
-# Ignore config or environment files
-config/*.yaml
+
 
 # Ignore Python cache files
 __pycache__/
